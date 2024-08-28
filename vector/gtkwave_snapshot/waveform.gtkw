@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Wed Aug 28 14:20:21 2024
+[*]
+[dumpfile] "C:\Users\krush\OneDrive\Desktop\vector\dump.vcd"
+[savefile] "C:\Users\krush\OneDrive\Desktop\vector\gtkwave_snapshot\waveform.gtkw"
+[timestart] 0
+[size] 1366 681
+[pos] -183 -53
+*-8.100000 171 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 254
+[signals_width] 154
+[sst_expanded] 1
+[sst_vpaned_height] 184
+@800022
+testbench.binary[3:0]
+@28
+(0)testbench.binary[3:0]
+(1)testbench.binary[3:0]
+(2)testbench.binary[3:0]
+(3)testbench.binary[3:0]
+@1001200
+-group_end
+@800023
+testbench.gray[3:0]
+@29
+(0)testbench.gray[3:0]
+(1)testbench.gray[3:0]
+(2)testbench.gray[3:0]
+(3)testbench.gray[3:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
